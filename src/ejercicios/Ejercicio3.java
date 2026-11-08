@@ -1,6 +1,7 @@
 package ejercicios;
 
 import estructuras.Cola;
+import modelo.Solicitud;
 
 /**
  * EJERCICIO 3: Selección de solicitudes para una jornada.

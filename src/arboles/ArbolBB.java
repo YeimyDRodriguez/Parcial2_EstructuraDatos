@@ -1,5 +1,7 @@
 package arboles;
 
+import estructuras.Cola;
+
 public class ArbolBB {
     protected NodoArbol raiz;
 
