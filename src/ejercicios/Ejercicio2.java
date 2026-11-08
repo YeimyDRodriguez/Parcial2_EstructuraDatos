@@ -1,4 +1,7 @@
 package ejercicios;
+
+import estructuras.Pila;
+
 /**
  * EJERCICIO 2: Obtener un segmento del historial.
  * Retorna una pila nueva con las acciones entre las posiciones inicio y fin

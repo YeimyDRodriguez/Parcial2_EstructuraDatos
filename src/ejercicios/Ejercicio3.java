@@ -1,5 +1,7 @@
 package ejercicios;
 
+import estructuras.Cola;
+
 /**
  * EJERCICIO 3: Selección de solicitudes para una jornada.
  * Primero se atienden las de prioridad ALTA y luego las NORMAL, siempre en

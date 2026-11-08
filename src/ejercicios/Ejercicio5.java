@@ -1,5 +1,7 @@
 package ejercicios;
 
+import arboles.ArbolAVL;
+import arboles.ArbolBB;
 import estructuras.Cola;
 
 public class Ejercicio5 {
