@@ -1,6 +1,7 @@
 package ejercicios;
 
 import estructuras.Pila;
+import modelo.Operacion;
 
 public class Ejercicio1 {
 

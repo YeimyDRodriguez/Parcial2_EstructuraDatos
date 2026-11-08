@@ -18,7 +18,7 @@ public class Pila<T> {
         tamanio++;
     }
 
-    /** Saca y retorna el elemento del tope. */
+    /** Saca y retorna el elemento del tope. */ 
     public T desapilar() {
         if (estaVacia()) {
             throw new RuntimeException("La pila está vacía");

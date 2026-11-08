@@ -2,6 +2,7 @@ package ejercicios;
 
 import arboles.ArbolAVL;
 import arboles.ArbolBB;
+import arboles.ArbolRojoNegro;
 import estructuras.Cola;
 
 public class Ejercicio5 {
