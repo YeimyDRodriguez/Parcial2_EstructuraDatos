@@ -1,5 +1,8 @@
 package ejercicios;
 
+import arboles.ArbolBB;
+import arboles.NodoArbol;
+
 /**
  * EJERCICIO 4: Árbol binario de búsqueda - consulta de equipos por rango.
  */
